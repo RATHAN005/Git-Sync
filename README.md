@@ -19,3 +19,4 @@ Automatically synced by [Git-Sync](https://github.com/git-sync-extension)
 | Problem | Platform | Difficulty | Language | Runtime | Memory | Time Complexity | Space Complexity | Solved Date |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [TypeCast And Double It | Practice | GeeksforGeeks](https://practice.geeksforgeeks.org/problems/typecast-and-double-it--153103) | GeeksforGeeks | Unknown | Unknown | - | - | - | - | Feb 10, 2026, 12:05 PM |
+| [Prepare](https://hackerrank.com/challenges/dynamic-array) | HackerRank | Unknown | Unknown | - | - | - | - | Feb 10, 2026, 12:18 PM |
