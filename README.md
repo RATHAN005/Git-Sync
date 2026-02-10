@@ -14,3 +14,8 @@ Automatically synced by [Git-Sync](https://github.com/git-sync-extension)
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Submit - Codeforces](https://codeforces.com/problemset/problem/problemset_submit) | Codeforces | Unknown | 406 ms (N/A) | 4600 KB (N/A) | Feb 10, 2026, 11:39 AM |
 | [Reverse String](https://leetcode.com/problems/reverse-string) | LeetCode | Easy | - | - | Feb 10, 2026, 11:41 AM |
+
+
+| Problem | Platform | Difficulty | Language | Runtime | Memory | Time Complexity | Space Complexity | Solved Date |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [TypeCast And Double It | Practice | GeeksforGeeks](https://practice.geeksforgeeks.org/problems/typecast-and-double-it--153103) | GeeksforGeeks | Unknown | Unknown | - | - | - | - | Feb 10, 2026, 12:05 PM |
