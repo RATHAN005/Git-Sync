@@ -7,3 +7,4 @@ Automatically synced by [Git-Sync](https://github.com/git-sync-extension)
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | LeetCode | Feb 10, 2026, 10:26 AM |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | LeetCode | Feb 10, 2026, 10:34 AM |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | LeetCode | Feb 10, 2026, 10:55 AM |
+| [Submit - Codeforces](https://codeforces.com/problemset/problem/problemset_submit) | Unknown | Codeforces | Feb 10, 2026, 11:17 AM |
