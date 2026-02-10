@@ -1,17 +1,21 @@
-    }
+/**
+ * Solved on Feb 10, 2026, 9:40 AM
+ */
 
-    private void dfs(int openP, int closeP, String s, int n, List<String> res) {
-        if (openP == closeP && openP + closeP == n * 2) {
             res.add(s);
             return;
         }
 
         if (openP < n) {
             dfs(openP + 1, closeP, s + "(", n, res);
-        return res;        
-        dfs(0, 0, "", n, res);
+        if (openP == closeP && openP + closeP == n * 2) {
+    }
 
-    public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<>();
+    private void dfs(int openP, int closeP, String s, int n, List<String> res) {
+        }
 
-class Solution {
+        if (closeP < openP) {
+            dfs(openP, closeP + 1, s + ")", n, res);
+        }
+    }    
+}
