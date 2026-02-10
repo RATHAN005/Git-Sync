@@ -20,3 +20,4 @@ Automatically synced by [Git-Sync](https://github.com/git-sync-extension)
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [TypeCast And Double It | Practice | GeeksforGeeks](https://practice.geeksforgeeks.org/problems/typecast-and-double-it--153103) | GeeksforGeeks | Unknown | Unknown | - | - | - | - | Feb 10, 2026, 12:05 PM |
 | [Prepare](https://hackerrank.com/challenges/dynamic-array) | HackerRank | Unknown | Unknown | - | - | - | - | Feb 10, 2026, 12:18 PM |
+| [Are there any arrows left](https://codewars.com/kata/559f860f8c0d6c7784000119) | Codewars | 7 kyu | Unknown | - | - | - | - | Feb 10, 2026, 02:15 PM |
