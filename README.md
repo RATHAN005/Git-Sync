@@ -13,3 +13,4 @@ Automatically synced by [Git-Sync](https://github.com/git-sync-extension)
 | Problem | Platform | Difficulty | Time | Space | Solved Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Submit - Codeforces](https://codeforces.com/problemset/problem/problemset_submit) | Codeforces | Unknown | 406 ms (N/A) | 4600 KB (N/A) | Feb 10, 2026, 11:39 AM |
+| [Reverse String](https://leetcode.com/problems/reverse-string) | LeetCode | Easy | - | - | Feb 10, 2026, 11:41 AM |
