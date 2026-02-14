@@ -23,3 +23,4 @@ Automatically synced by [Git-Sync](https://github.com/git-sync-extension)
 | [Are there any arrows left](https://codewars.com/kata/559f860f8c0d6c7784000119) | Codewars | 7 kyu | Unknown | - | - | - | - | Feb 10, 2026, 02:15 PM |
 | [Merge Adjacent Equal Elements](https://leetcode.com/problems/merge-adjacent-equal-elements) | LeetCode | Medium | Unknown | - | - | - | - | Feb 10, 2026, 02:16 PM |
 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | LeetCode | Medium | Unknown | - | - | - | - | Feb 12, 2026, 10:31 AM |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | LeetCode | Medium | Unknown | Feb 14, 2026, 10:24 AM |
