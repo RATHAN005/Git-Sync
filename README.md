@@ -24,3 +24,4 @@ Automatically synced by [Git-Sync](https://github.com/git-sync-extension)
 | [Merge Adjacent Equal Elements](https://leetcode.com/problems/merge-adjacent-equal-elements) | LeetCode | Medium | Unknown | - | - | - | - | Feb 10, 2026, 02:16 PM |
 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | LeetCode | Medium | Unknown | - | - | - | - | Feb 12, 2026, 10:31 AM |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | LeetCode | Medium | Unknown | Feb 14, 2026, 10:24 AM |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | LeetCode | Medium | Unknown | Feb 14, 2026, 10:27 AM |
